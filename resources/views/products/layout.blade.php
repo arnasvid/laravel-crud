@@ -6,7 +6,7 @@
 </head>
 <body>
     <div>
-        <h1 class="text-center mx-auto">Laravel 10 CRUD Application</h1>
+        <h1 class="text-center">Laravel 10 CRUD Application</h1>
     </div>
     <div class="container">
         <br>
