@@ -5,7 +5,9 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css" rel="stylesheet">
 </head>
 <body>
-    <h1>Laravel 10 CRUD Application</h1>
+    <div>
+        <h1 class="text-center mx-auto">Laravel 10 CRUD Application</h1>
+    </div>
     <div class="container">
         <br>
         @yield('content')
